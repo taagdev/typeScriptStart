@@ -1,0 +1,2 @@
+# typeScriptStart
+TypesCript examples
